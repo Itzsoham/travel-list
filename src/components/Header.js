@@ -1,3 +1,3 @@
 export default function Header() {
-  return <h1>🌴 T R I P 💼</h1>;
+  return <h1>🌴 travel list 💼</h1>;
 }
